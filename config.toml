@@ -34,6 +34,7 @@ description            = "Yet another self promoting blog"
 instagram              = "//instagram.com/jay.ong"
 latestpostscount       = 5                             # how many posts to display on the home page
 selfintro              = "Yet another personal blog"
-i18n_flags             = false 
+i18n_flags             = false
+faviconfile            = "img/favicon.ico"
 
 # add a profile picture to the blog
