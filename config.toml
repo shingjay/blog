@@ -1,0 +1,39 @@
+baseURL             = "http://example.org/"
+languageCode        = "en-us"
+theme               = "cocoa"
+contentdir          = "content"
+layoutdir           = "layouts"
+author              = "Jay Ong"
+title               = "Jay Ong"
+builddrafts         = false
+canonifyurls        = true
+pygmentsuseclasses  = true
+pluralizelisttitles = false
+
+[[menu.main]]
+name                   = "About"
+weight                 = -110
+identifier             = "about"
+url                    = "/about/"
+
+[[menu.main]]
+name                   = "Blog"
+weight                 = -120
+identifier             = "blog"
+url                    = "/blog/"
+
+[params]
+dateform               = "Jan 2, 2006"
+dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
+email                  = "shingjay.ong@gmail.com"
+author                 = "Jay Ong"
+linkedin               = "//linkedin.com/in/shingjay"
+px500                  = "//500px.com/shingjay"
+github                 = "//github.com/shingjay"
+description            = "Yet another self promoting blog"
+instagram              = "//instagram.com/jay.ong"
+latestpostscount       = 5                             # how many posts to display on the home page
+selfintro              = "Yet another personal blog"
+i18n_flags             = false 
+
+# add a profile picture to the blog
