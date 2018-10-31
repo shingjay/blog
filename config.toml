@@ -9,6 +9,7 @@ builddrafts         = false
 canonifyurls        = true
 pygmentsuseclasses  = true
 pluralizelisttitles = false
+googleAnalytics     = "UA-128361375-1"
 
 [[menu.main]]
 name                   = "About"
