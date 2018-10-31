@@ -36,5 +36,6 @@ latestpostscount       = 5                             # how many posts to displ
 selfintro              = "Yet another personal blog"
 i18n_flags             = false
 faviconfile            = "img/favicon.ico"
+avatar                 = "img/avatar.png"
 
 # add a profile picture to the blog
